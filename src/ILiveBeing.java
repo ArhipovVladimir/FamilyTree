@@ -1,4 +1,4 @@
 
-// public interface ILiveBeing<LiveType> {
+public interface ILiveBeing<LiveType> {
 
-// }
+ }

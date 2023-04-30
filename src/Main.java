@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void main(St1ring[] args) {
 
         Human father = new Human("Станислав", 1961, "male");
         Human mother = new Human("Василиса", 1985, "female");
